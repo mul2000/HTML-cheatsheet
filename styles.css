@@ -1,0 +1,52 @@
+body {
+  font-family: Didot, serif;
+  background-color: snow;
+  margin: 0;
+}
+
+h1 {
+  background-color: steelblue;
+  color: snow;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+
+h2 {
+  color: snow;
+  background-color: lightsteelblue;
+  margin: 10px 0;
+  padding: 10px 30px;
+}
+
+th {
+  font-size: 20px;
+}
+
+td {
+  font-family: Geneva, sans-serif;
+  border-top: 1px dotted lightsteelblue;
+  padding: 5px 10px;
+}
+
+table {
+  margin: 20px auto;
+  width: 600px;
+}
+
+.code {
+  font-family: "Courier New", monospace;
+  background-color: lightsteelblue;
+  padding: 2px;
+}
+
+footer {
+  padding: 20px 0;
+  background-color: steelblue;
+  text-align: center;
+}
+
+p {
+    color: snow;
+    background-color: steelblue;
+}
